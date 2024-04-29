@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 	<img align="right" src="Linkedin.gif" width="400" height="200" alt="Click here!!!">
 </a>
 
-# Hi, I'm Jorge Martinez :JorgeMartinez03:
+# Hi, I'm Jorge Martinez 🐙:
 
 Frontend Developer  :man_technologist:
 
