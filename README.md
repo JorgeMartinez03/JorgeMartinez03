@@ -31,10 +31,11 @@ Frontend Developer  :man_technologist:
 
 ## About me 
 
-🌧️: Rainy Days | :computer: Programming
+🌧️: Rainy Days | 🖥️ Programming
 
-- :earth: I'm from Madrid - España
-- :heart: I love to customize everything
+- 🇪🇦 I'm from Madrid - España
+- ❤️ I love to customize everything
+- :lov
   
 ## Tech & Tools Preference
 
