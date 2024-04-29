@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Jorge Martinez 🧑
 
-Frontend Developer  :man_technologist:
+Full Stack Developer  :man_technologist:
 
 
 ## About me 
