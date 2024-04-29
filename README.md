@@ -48,7 +48,9 @@ Frontend Developer  :man_technologist:
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
-
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-157782?style=for-the-badge&logo=Python&logoColor=white">
+</a>
 
 #### Frameworks
 <a href="https://es.react.dev/"> 
@@ -56,29 +58,32 @@ Frontend Developer  :man_technologist:
 </a> 
 
 #### Programing Tools
-<a href="https://github.com/JorgeMartinez03">
+<a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
-<a href="https://github.com/JorgeMartinez03">
+<a href="https://git-scm.com/">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://www.postman.com/">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </a>
-<a href="https://github.com/JorgeMartinez03">
+<a href="https://insomnia.rest/">
+  <img src="https://img.shields.io/badge/Insomnia-453456?style=for-the-badge&logo=Insomnia&logoColor=white">
+</a>
+<a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
-
-<a href="https://github.com/JorgeMartinez03"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
-</a> <a href="https://github.com/JorgeMartinez03">
-	<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-</a>
+<a href="https://www.npmjs.com/"> 
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
+</a> 
 
 #### CSS
-<a href="https://github.com/ArielCalisaya">
+<a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
-<a href="https://github.com/ArielCalisaya">
+<a href="https://www.canva.com/">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </a>
-<a href="https://github.com/ArielCalisaya">
+<a href="https://www.figma.com/">
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a> 
