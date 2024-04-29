@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/jorge-martinez-aa9840228/" target="_blank" rel="noopener noreferrer">
-	<img align="right" src="https://media.licdn.com/dms/image/sync/D4D10AQH8cu2BO3fV7w/image-shrink_800/0/1695504635385?e=1714993200&v=beta&t=oYBeSlfgYTrb96LqDNfj4TIC5lr2U23GHeoZkp-oS9M" width="400" height="200" alt="Click here!!!">
+	<img align="right" src="" width="400" height="200" alt="Click here!!!">
 </a>
 
 # Hi, I'm Jorge Martinez :JorgeMartinez03:
@@ -36,15 +36,6 @@ Frontend Developer  :man_technologist:
 - :earth_europe: I'm from Madrid - España
 - :gem: I love to customize everything
   
-
-
-### Current commits
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgeMartinez03/JorgeMartinez03/output-snake-commits/github-contribution-grid-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgeMartinez03/JorgeMartinez03/output-snake-commits/github-contribution-grid-snake.svg" />
-	<img alt="github-snake" src="https://raw.githubusercontent.com/JorgeMartinez03/JorgeMartinez03/output-snake-commits/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Tech & Tools Preference
 
 #### Languages
@@ -53,6 +44,9 @@ Frontend Developer  :man_technologist:
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/Css">
+  <img src="https://img.shields.io/badge/CSS?style=for-the-badge&logo=css&logoColor=black">
 </a>
 
 #### Frameworks
