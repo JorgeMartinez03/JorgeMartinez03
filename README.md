@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/jorge-martinez-aa9840228/" target="_blank" rel="noopener noreferrer">
-	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
+	<img align="right" src="LINKEDIN.JPG" width="400" height="200" alt="Click here!!!">
 </a>
 
 # Hi, I'm Jorge Martinez :JorgeMartinez03:
