@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://linkedin.com/in/JorgeMartinez03/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/jorge-martinez-aa9840228/" target="_blank" rel="noopener noreferrer">
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
 
@@ -33,7 +33,7 @@ Frontend Developer  :man_technologist:
 
 🌧️: Rainy Days | :computer: Programming
 
-- :earth_americas: I'm from Madrid - España
+- :earth_europe: I'm from Madrid - España
 - :gem: I love to customize everything
   
 
