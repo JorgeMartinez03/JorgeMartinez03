@@ -91,22 +91,3 @@ Frontend Developer  :man_technologist:
 	<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </a>
 
-#### CSS & Design Tools
-<a href="https://github.com/JorgeMartinez03">
-  <img src="https://img.shields.io/badge/styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
-</a> <a href="https://github.com/JorgeMartinez03">	
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</a>
-<a href="https://github.com/JorgeMartinez03">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-<a href="https://github.com/JorgeMartinez03">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
-
-<a href="https://github.com/JorgeMartinez03"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a> 
-<a href="https://github.com/JorgeMartinez03">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-</a>
-
